@@ -1,2 +1,2 @@
 # Python-game
-A project i created for a course in my university. The goal was to create, at a given time, a game using python as close as possible, as the given game called River Raid created for Atari.
+A project i created for a course in my university. The goal was to create a game, using python, as close as possible to the given game called River Raid created for Atari.
